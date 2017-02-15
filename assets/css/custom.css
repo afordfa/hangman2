@@ -1,0 +1,49 @@
+
+
+.gallows {
+
+}
+.gallows img{
+	width: 100%
+}
+
+
+
+.jumbotron h1, p {
+	text-align: center;
+}
+
+.jumbotron {
+	padding: 0;
+}
+
+.skyline img {
+	width: 100%;
+	vertical-align: center;
+}
+
+.gameBoard h1{
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 82px;
+}
+
+.usedLetters {
+
+}
+
+.resetButton {
+	width: 85%;
+}
+
+.longSolution {
+	font-size: 20px;
+}
+
+p {
+	font-size: 24px;
+}
+
+
+
+
